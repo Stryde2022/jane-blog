@@ -112,6 +112,8 @@ i {
     font-family: 'Oswald', sans-serif;
     margin-top: 0;
     cursor: pointer;
+    color: black;
+    border: none;
 }
 
 .img-btn:hover {
@@ -219,6 +221,7 @@ i {
     background-color: #ffffff;
     border: 1px solid rgb(194, 186, 186);
     cursor: pointer;
+    color: black;
 }
 
 .like-btn:hover {
